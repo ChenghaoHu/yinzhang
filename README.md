@@ -6,34 +6,34 @@
 ------------
 **圆形公章：**
 
-![](https://github.com/ChenghaoHu/yinzhang/master/img/公章0.png)
+![](https://github.com/ChenghaoHu/yinzhang/blob/master/img/公章0.png)
 
-![](https://github.com/ChenghaoHu/yinzhang/master/img/公章1.png)
+![](https://github.com/ChenghaoHu/yinzhang/blob/master/img/公章1.png)
 
-![](https://github.com/ChenghaoHu/yinzhang/master/img/公章2.png)
+![](https://github.com/ChenghaoHu/yinzhang/blob/master/img/公章2.png)
 
-![](https://github.com/ChenghaoHu/yinzhang/master/img/公章3.png)
+![](https://github.com/ChenghaoHu/yinzhang/blob/master/img/公章3.png)
 
 **椭圆公章：**
 
-![](https://github.com/ChenghaoHu/yinzhang/master/img/公章4.png)
+![](https://github.com/ChenghaoHu/yinzhang/blob/master/img/公章4.png)
 
-![](https://github.com/ChenghaoHu/yinzhang/master/img/公章5.png)
+![](https://github.com/ChenghaoHu/yinzhang/blob/master/img/公章5.png)
 
-![](https://github.com/ChenghaoHu/yinzhang/master/img/公章6.png)
+![](https://github.com/ChenghaoHu/yinzhang/blob/master/img/公章6.png)
 
 ## 2.2 私章效果图
 ------------
 
-![](https://github.com/ChenghaoHu/yinzhang/master/img/私章0.png)
+![](https://github.com/ChenghaoHu/yinzhang/blob/master/img/私章0.png)
 
-![](https://github.com/ChenghaoHu/yinzhang/master/img/私章1.png)
+![](https://github.com/ChenghaoHu/yinzhang/blob/master/img/私章1.png)
 
-![](https://github.com/ChenghaoHu/yinzhang/master/img/私章2.png)
+![](https://github.com/ChenghaoHu/yinzhang/blob/master/img/私章2.png)
 
-![](https://github.com/ChenghaoHu/yinzhang/master/img/私章3.png)
+![](https://github.com/ChenghaoHu/yinzhang/blob/master/img/私章3.png)
 
-![](https://github.com/ChenghaoHu/yinzhang/master/img/私章4.png)
+![](https://github.com/ChenghaoHu/yinzhang/blob/master/img/私章4.png)
 
 # 3.使用方法
 ```java
